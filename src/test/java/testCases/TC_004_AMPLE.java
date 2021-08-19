@@ -2,6 +2,6 @@ package testCases;
 
 public class TC_004_AMPLE {
   
-  system.out.print("check to see pull command");
+  system.out.println("check to see pull command");
 
 }
